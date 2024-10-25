@@ -1,0 +1,60 @@
+.navbar{
+    background-color: #ffffff;
+
+
+}
+.s2{
+    width: 25px;
+    margin-left: 70px;
+
+}
+.navbar-brand{
+    margin-left: 3px;
+    text-transform: capitalize;
+    font-weight: bolder;
+    color: rgb(105, 104, 104);
+    font-size: 18px;
+}
+.nav-item{
+font-size: 13px;
+text-transform: capitalize;
+}
+.dropdown-item{
+    font-size: 15px;
+    padding-right: 10px;
+    
+}
+svg{
+    font-weight: lighter;
+    padding-right: 10px;
+
+}
+.btn,.dropdown-toggle{
+font-size: 13px;
+text-decoration: underline;
+}
+.tuzih{
+    display: inline-block;
+    padding-left: 50px;
+}
+body{
+    background-color: #fcf9f2;
+}
+.nav-link{
+    font-weight: light;
+
+}
+.dropdown-item{
+    font-size: 13px;
+}
+.btn-primary{
+    text-decoration: none;
+}
+.imgh{
+    width: 110vh;
+}
+.part{
+    margin-top: 8px;
+    text-align: left;
+    margin-left: 30px;
+}
